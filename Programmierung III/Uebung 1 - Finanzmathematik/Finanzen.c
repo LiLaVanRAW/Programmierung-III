@@ -5,8 +5,10 @@
 
 			//K: double kann 14 dezimale stellen sauber kodieren ( 12 stellen, 2 stellen)
 			//wechsel zu int (9 stellen) einstellige mio.-betraege
-
+#include <stdio.h>
 #include "Finanzen.h"
+#include <math.h>
+
 /*
 startkapital, restschuld in Euro
 zins, tilgung in %
@@ -36,12 +38,10 @@ double guthaben(double anfangskapital, double zins, int jahre)
 	int ak = (int) (100. * anfangskapital);
 	int gh, j;
 	int z = (int) (10. * zins);
-	
-	for(j = 1; j <= jahre; j++)
-	{
-		a = p * (1 + z)^n
+	double ze = 0;
 
-	}
+	ze = pow ((1. + zins), jahre);
+	gh = (ak * ze);
 
 	return gh/100.;
 }

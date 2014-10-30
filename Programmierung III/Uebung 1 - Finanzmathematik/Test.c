@@ -21,9 +21,10 @@ int main(int argc, char* argv[])
 		printf("\nStartkapital: %10.2f \nZins: %5.1f \nTilgung: %5.1f \nJahre: %3d \nRestschuld: %10.2f\n",
 			sk, zins, tilgung, jahre, restschuld(sk,zins,tilgung,jahre));
 	}*/
+	double ak = 1000.,  zins = 0.8;
+	int jahre = 3;
 
-
-	printf("\nAnfangskapital: %10.2f \n", );
+	printf("\nAnfangskapital: %10.2f \nZins: %5.1f \nJahre: %3d \nGuthaben: %10.2f\n", ak, zins, jahre, guthaben(ak, zins, jahre));
 
 	system("pause");
 	return 0;

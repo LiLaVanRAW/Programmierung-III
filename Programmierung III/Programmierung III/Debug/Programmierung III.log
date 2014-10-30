@@ -1,5 +1,5 @@
-﻿Der Buildvorgang wurde am 18.10.2014 12:06:46 gestartet.
-     1>Projekt "C:\Users\Li La\Documents\GitHub\Programmieren-III\Programmierung III\Programmierung III\Programmierung III.vcxproj" auf Knoten "2", Build Ziel(e).
+﻿Der Buildvorgang wurde am 30.10.2014 19:39:28 gestartet.
+     1>Projekt "C:\Users\Li La\Documents\GitHub\Programmierung-III\Programmierung III\Programmierung III\Programmierung III.vcxproj" auf Knoten "2", Build Ziel(e).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt ASCII.c initials.c Quelle.c
          Quelle.c
@@ -7,12 +7,12 @@
          ASCII.c
          Code wird generiert...
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Li La\Documents\GitHub\Programmieren-III\Programmierung III\Debug\Uebung2-ASCII.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Li La\Documents\GitHub\Programmieren-III\Programmierung III\Debug\Uebung2-ASCII.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Li La\Documents\GitHub\Programmieren-III\Programmierung III\Debug\Uebung2-ASCII.lib" /MACHINE:X86 Debug\ASCII.obj
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Li La\Documents\GitHub\Programmierung-III\Programmierung III\Debug\Uebung2-ASCII.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Li La\Documents\GitHub\Programmierung-III\Programmierung III\Debug\Uebung2-ASCII.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Li La\Documents\GitHub\Programmierung-III\Programmierung III\Debug\Uebung2-ASCII.lib" /MACHINE:X86 Debug\ASCII.obj
          Debug\initials.obj
          Debug\Quelle.obj
-         Programmierung III.vcxproj -> C:\Users\Li La\Documents\GitHub\Programmieren-III\Programmierung III\Debug\Uebung2-ASCII.exe
-     1>Die Erstellung des Projekts "C:\Users\Li La\Documents\GitHub\Programmieren-III\Programmierung III\Programmierung III\Programmierung III.vcxproj" ist abgeschlossen, Build Ziel(e).
+         Programmierung III.vcxproj -> C:\Users\Li La\Documents\GitHub\Programmierung-III\Programmierung III\Debug\Uebung2-ASCII.exe
+     1>Die Erstellung des Projekts "C:\Users\Li La\Documents\GitHub\Programmierung-III\Programmierung III\Programmierung III\Programmierung III.vcxproj" ist abgeschlossen, Build Ziel(e).
 
 Build erfolgreich.
 
-Verstrichene Zeit 00:00:03.27
+Verstrichene Zeit 00:00:03.86

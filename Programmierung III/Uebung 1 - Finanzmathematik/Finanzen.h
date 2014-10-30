@@ -4,6 +4,7 @@ Uebung 1 - Finanzmathematik
 */
 
 			//K: double kann 14 dezimale stellen sauber kodieren ( 12 stellen, 2 stellen)
+#include <math.h>
 
 /*
 startkapital, restschuld in Euro
