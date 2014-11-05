@@ -7,4 +7,4 @@
 
 #include <stdio.h>
 
-void hanoi(int n, char a, char b, char c, int count);
+void hanoi(int n, char a, char b, char c);
