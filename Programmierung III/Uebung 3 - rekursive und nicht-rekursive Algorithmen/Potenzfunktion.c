@@ -32,7 +32,7 @@ double potenzNR(double b, double e)
 				i = e;
 				y = -1;
 			}
-			else if(y > 9999999)
+			else if(y > 9999999999)
 			{
 				i = e;
 				y = -1;
@@ -59,9 +59,4 @@ double potenzR(double b, double e)
 		y = y * (potenzR(b, e));
 	}
 	return y;
-}
-
-double limits(double a, double b)
-{
-	return 0;
 }

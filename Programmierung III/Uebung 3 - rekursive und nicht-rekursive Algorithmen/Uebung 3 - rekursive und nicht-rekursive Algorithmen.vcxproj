@@ -11,9 +11,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Hanoi.h" />
     <ClInclude Include="Potenzfunktion.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="hanoi.c" />
     <ClCompile Include="Potenzfunktion.c" />
     <ClCompile Include="Test.c" />
   </ItemGroup>

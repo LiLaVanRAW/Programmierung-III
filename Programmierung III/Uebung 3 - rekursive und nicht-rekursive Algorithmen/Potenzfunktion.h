@@ -11,5 +11,3 @@
 double potenzNR(double b, double e);
 
 double potenzR(double b, double e);
-
-double limits(double a, double b);

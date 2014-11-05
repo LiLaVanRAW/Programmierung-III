@@ -18,12 +18,18 @@
     <ClInclude Include="Potenzfunktion.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
+    <ClInclude Include="Hanoi.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Potenzfunktion.c">
       <Filter>Quelldateien</Filter>
     </ClCompile>
     <ClCompile Include="Test.c">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="hanoi.c">
       <Filter>Quelldateien</Filter>
     </ClCompile>
   </ItemGroup>
