@@ -1,0 +1,14 @@
+﻿Der Buildvorgang wurde am 11.11.2014 11:20:59 gestartet.
+     1>Projekt "C:\Users\pchs\Desktop\Programmierung-III\Programmierung III\Uebung 4 - Zeiger und felder als Parameter von Funktionen\Uebung 4 - Zeiger und felder als Parameter von Funktionen.vcxproj" auf Knoten "2", Build Ziel(e).
+     1>InitializeBuildStatus:
+         "Debug\Uebung 4 - Zeiger und felder als Parameter von Funktionen.unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt root.c
+         root.c
+     1>c:\users\pchs\desktop\programmierung-iii\programmierung iii\uebung 4 - zeiger und felder als parameter von funktionen\root.c(15): error C2059: Syntaxfehler: 'Typ'
+     1>c:\users\pchs\desktop\programmierung-iii\programmierung iii\uebung 4 - zeiger und felder als parameter von funktionen\root.c(16): error C2065: 'q': nichtdeklarierter Bezeichner
+     1>Die Erstellung des Projekts "C:\Users\pchs\Desktop\Programmierung-III\Programmierung III\Uebung 4 - Zeiger und felder als Parameter von Funktionen\Uebung 4 - Zeiger und felder als Parameter von Funktionen.vcxproj" ist abgeschlossen, Build Ziel(e) -- FEHLER.
+
+Fehler beim Buildvorgang.
+
+Verstrichene Zeit 00:00:00.10

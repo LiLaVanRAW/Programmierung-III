@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Uebung 1 - Finanzmathematik
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Uebung 3 - rekursive und nicht-rekursive Algorithmen", "Uebung 3 - rekursive und nicht-rekursive Algorithmen\Uebung 3 - rekursive und nicht-rekursive Algorithmen.vcxproj", "{EA8F6239-8FF6-42B4-8866-EAB5476B53C6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Uebung 4 - Zeiger und felder als Parameter von Funktionen", "Uebung 4 - Zeiger und felder als Parameter von Funktionen\Uebung 4 - Zeiger und felder als Parameter von Funktionen.vcxproj", "{9B8280D3-683B-4A53-BB26-2E62635C1781}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -37,6 +39,10 @@ Global
 		{EA8F6239-8FF6-42B4-8866-EAB5476B53C6}.Debug|Win32.Build.0 = Debug|Win32
 		{EA8F6239-8FF6-42B4-8866-EAB5476B53C6}.Release|Win32.ActiveCfg = Release|Win32
 		{EA8F6239-8FF6-42B4-8866-EAB5476B53C6}.Release|Win32.Build.0 = Release|Win32
+		{9B8280D3-683B-4A53-BB26-2E62635C1781}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9B8280D3-683B-4A53-BB26-2E62635C1781}.Debug|Win32.Build.0 = Debug|Win32
+		{9B8280D3-683B-4A53-BB26-2E62635C1781}.Release|Win32.ActiveCfg = Release|Win32
+		{9B8280D3-683B-4A53-BB26-2E62635C1781}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
